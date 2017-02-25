@@ -1,0 +1,9 @@
+C:\Users\Cheah\Documents\Visual Studio 2008\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.manifest
+C:\Users\Cheah\Documents\Visual Studio 2008\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.application
+C:\Users\Cheah\Documents\Visual Studio 2008\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Cheah\Documents\Visual Studio 2008\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Cheah\Documents\Visual Studio 2008\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cheah\Documents\Visual Studio 2008\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe.manifest
+C:\Users\Cheah\Documents\Visual Studio 2008\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.application
+C:\Users\Cheah\Documents\Visual Studio 2008\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Cheah\Documents\Visual Studio 2008\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
